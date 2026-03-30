@@ -1,22 +1,23 @@
-# Portfólio - Matheus Fideles
+# 💼 Portfólio - Matheus Fideles
 
-Bem-vindo ao meu portfólio! 
-Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, projetos e um pouco sobre mim como desenvolvedor.
-
----
-
-Sobre o projeto
-
-Este é um site de portfólio pessoal onde mostro:
-
-*  Quem sou
-*  Tecnologias que utilizo
-*  Projetos desenvolvidos
-*  Formas de contato
+Este é o meu portfólio pessoal desenvolvido com o objetivo de apresentar minhas habilidades como desenvolvedor, além de reunir projetos e formas de contato.
 
 ---
 
-Tecnologias utilizadas
+## 📖 Sobre
+
+O projeto consiste em uma aplicação web estática onde apresento:
+
+* Informações sobre mim
+* Tecnologias que utilizo
+* Projetos desenvolvidos
+* Contato
+
+Esse portfólio faz parte do meu processo de aprendizado e evolução na área de desenvolvimento web.
+
+---
+
+## 🚀 Tecnologias utilizadas
 
 * HTML5
 * CSS3
@@ -24,9 +25,9 @@ Tecnologias utilizadas
 
 ---
 
-Estrutura do projeto
+## 📂 Estrutura do projeto
 
-```
+```id="o9t6nc"
 Portfolio/
  ├── index.html
  ├── style.css
@@ -36,42 +37,69 @@ Portfolio/
 
 ---
 
-Como acessar
+## ⚙️ Como executar o projeto
 
-Você pode visualizar o projeto online (quando publicado):
+### 🔹 Clonar o repositório
 
-```
-https://seu-link-aqui.com
-```
-
-Ou rodar localmente:
-
-1. Baixe ou clone o repositório:
-
-```
+```id="w7ikfs"
 git clone https://github.com/matheusfideless/Portfolio.git
 ```
 
-2. Abra o arquivo:
+### 🔹 Acessar a pasta do projeto
 
+```id="pwrbca"
+cd Portfolio
 ```
-index.html
+
+### 🔹 Abrir no navegador
+
+Basta abrir o arquivo `index.html` em qualquer navegador.
 
 ---
 
-Contato
+## 🌐 Deploy
 
-* Email: matheusfidelesaraujo94@gmail.com
-* LinkedIn: https://www.linkedin.com/in/matheus-fideles-46b932313/
+O projeto pode ser acessado online através de plataformas como:
+
+* Vercel
+* Netlify
+
+*(adicione aqui o link quando publicar)*
+
+---
+
+## 📌 Melhorias futuras
+
+* Tornar o layout responsivo para todos os dispositivos
+* Adicionar novos projetos
+* Melhorar a acessibilidade
+* Implementar animações com JavaScript
+
+---
+
+## 📬 Contato
+
 * GitHub: https://github.com/matheusfideless
+* LinkedIn: https://www.linkedin.com/in/matheus-fideles-46b932313/
+* Email: matheusfidelesaraujo94@gmail.com
 
 ---
 
-## Observações
+## 🧠 Aprendizados
 
-Este projeto faz parte do meu aprendizado e evolução como desenvolvedor.
-Estou sempre buscando melhorar e aprender novas tecnologias.
+Durante o desenvolvimento deste projeto, pratiquei:
+
+* Estruturação de páginas com HTML
+* Estilização com CSS
+* Manipulação básica com JavaScript
+* Organização de arquivos e boas práticas
 
 ---
 
-Se você gostou do projeto, não esqueça de deixar uma estrela!
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
+⭐ Sinta-se à vontade para explorar o projeto e dar sugestões!
