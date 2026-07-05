@@ -42,7 +42,7 @@ Portfolio/
 ### 🔹 Clonar o repositório
 
 ```id="w7ikfs"
-git clone https://github.com/matheusfideless/Portfolio.git
+git clone https://github.com/matheusfideles-stack/Portfolio.git
 ```
 
 ### 🔹 Acessar a pasta do projeto
@@ -64,8 +64,7 @@ O projeto pode ser acessado online através de plataformas como:
 * Vercel
 * Netlify
 
-*(adicione aqui o link quando publicar)*
-
+🔗 https://portfolio-ashy-five-18.vercel.app
 ---
 
 ## 📌 Melhorias futuras
@@ -79,7 +78,7 @@ O projeto pode ser acessado online através de plataformas como:
 
 ## 📬 Contato
 
-* GitHub: https://github.com/matheusfideless
+* GitHub: https://github.com/matheusfideles-stack
 * LinkedIn: https://www.linkedin.com/in/matheus-fideles-46b932313/
 * Email: matheusfidelesaraujo94@gmail.com
 
